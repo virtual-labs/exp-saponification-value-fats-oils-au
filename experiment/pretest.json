@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  Saponification value is the ____  of KOH required to saponify the fatty acids liberated from ____ of fat.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "g,100mg",
+        "b": "mg,1g",
+        "c": "g,1000mg",
+        "d": "mg,1mg"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.  The relationship between saponification value and molecular mass of oils is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Directly proportional",
+        "b": "Inversely Proportional",
+        "c": "Independent  relation",
+        "d": "None of the above."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3.  _______ process is an alkaline hydrolysis of a fat to form soap.",
+      "answers": {
+        "a": "Saponification",
+        "b": "Neutralization",
+        "c": "Enzymolysis",
+        "d": "Alkalimetry"
+      },
+          
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  Triglycerides are natural esters of glycerol with __________ ",
+        "answers": {
+          "a": "tribasic carboxylic acids, e.g. citric acid",
+          "b": "high molecular weight aromatic carboxylic acids",
+          "c": "tribasic mineral acids, e.g. orthophosphoric acid",
+          "d": "long chain aliphatic carboxylic acids"
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
