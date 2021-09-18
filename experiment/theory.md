@@ -28,3 +28,5 @@ Fats (triglycerides) upon alkaline hydrolysis (either with KOH or NaOH ) yield g
 
 
 <img src="images/2.jpg" title="" /> 
+
+&nbsp;
