@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  Saponification value is the ____  of KOH required to saponify the fatty acids liberated from ____ of fat.",
+      "answers": {
+        "a": "g,100mg",
+        "b": "mg,1g",
+        "c": "g,1000mg",
+        "d": "mg,1mg"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.  The relationship between saponification value and molecular mass of oils is:",
+      "answers": {
+        "a": "Directly proportional",
+        "b": "Inversely Proportional",
+        "c": "Independent  relation",
+        "d": "None of the above."
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3.  _______ process is an alkaline hydrolysis of a fat to form soap.",
+      "answers": {
+        "a": "Saponification",
+        "b": "Neutralization",
+        "c": "Enzymolysis",
+        "d": "Alkalimetry"
+      },
+          
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  Triglycerides are natural esters of glycerol with __________ ",
+        "answers": {
+          "a": "tribasic carboxylic acids, e.g. citric acid",
+          "b": "high molecular weight aromatic carboxylic acids",
+          "c": "tribasic mineral acids, e.g. orthophosphoric acid",
+          "d": "long chain aliphatic carboxylic acids"
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
